@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @P0GGI3SBtw
+- 👀 I’m interested with music and motobikes
+- 🌱 I’m currently learning Python (psst best programing language)
+- 💞️ I’m looking to collaborate with Codewise

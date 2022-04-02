@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @P0GGI3SBtw
 - 👀 I’m interested with music and motorcycles
-- 🌱 I’m currently learning Python (psst best programing language)
+- 🌱 I’m currently learning Python (psst, the best programing language)
 - 💞️ I’m looking to collaborate with 'place for name of your company'
